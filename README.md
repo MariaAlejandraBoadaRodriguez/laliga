@@ -171,9 +171,11 @@ The script performs:
 ###### 📊 Baseline Model Visualizations
 
 - Class Distribution
+
 ![Class Distribution](img/class_distribution.png)
 
 - MConfusion Matrix — Random Forest Baseline
+
 ![Confusion Matrix](img/confusion_matrix_baseline.png)
 
 #### 7. Hybrid Model QNN + Random Forest (model_hybrid_qnn_rf.py)
@@ -189,7 +191,9 @@ This script implements a hybrid classification model that combines a variational
 ###### 📊 Hybrid Model Visualizations
 
 - Class Distribution
+
 ![Class Distribution](img/class_distribution_hybrid.png)
 
 - Confusion Matrix - Modelo Hybrid:
+
 ![Confusion Matrix](img/confusion_matrix_hybrid_qnn_rf.png)
