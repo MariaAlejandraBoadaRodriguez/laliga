@@ -178,6 +178,12 @@ The script performs:
 
 ![Confusion Matrix](img/confusion_matrix_baseline.png)
 
+##### Interpretation
+
+The first chart shows the distribution of outcomes in the analyzed LaLiga sample: away-team victories are the most frequent class, followed by draws, while home-team victories are the least common. This indicates a significant class imbalance that diverges from the usual trend in football, where home teams typically have an advantage. This skewed distribution directly influences the behavior of predictive models, as they tend to favor the dominant class (away_win), reducing the model’s ability to generalize properly to underrepresented categories such as home_win.
+
+The confusion matrix of the Random Forest model confirms this effect: the model correctly predicts some away and home victories but repeatedly fails to distinguish between away_win and draw, showing confusion between both classes. Moreover, it does not correctly predict any draws, reflecting the model’s difficulty in handling an intermediate and less consistent category. Overall, the baseline performance is limited by the small sample size and the class imbalance, suggesting the need for rebalance techniques and more complex or hybrid models to improve predictive accuracy.
+
 #### 7. Hybrid Model QNN + Random Forest (model_hybrid_qnn_rf.py)
 
 This script implements a hybrid classification model that combines a variational quantum circuit (QNN) in PennyLane with a classical Random Forest:
@@ -197,3 +203,9 @@ This script implements a hybrid classification model that combines a variational
 - Confusion Matrix - Modelo Hybrid:
 
 ![Confusion Matrix](img/confusion_matrix_hybrid_qnn_rf.png)
+
+##### Interpretation
+
+The first chart shows the distribution of outcomes in the dataset used by the model, where away-team victories (away_win) are the most common, followed by draws, and finally home-team victories (home_win). This distribution reveals an imbalanced dataset, which affects the model’s performance and helps explain why certain classes are harder to predict. The fact that most outcomes are away wins indicates that the set of statistics contains behaviors that favor this type of match, which is important when interpreting any predictive model built on these data.
+
+The confusion matrix shows that the hybrid QNN + Random Forest model achieves strong predictions for the home_win class, but it struggles to correctly distinguish between away_win and draw. For example, several away victories were classified as draws or even as home wins, reflecting both the complexity of the problem and the small size of the dataset. Even so, the model is able to identify interesting patterns in the quantum representation, capturing nonlinear relationships within the statistics. This validates that the hybrid approach adds value, although its performance would improve with a larger and more balanced dataset.
