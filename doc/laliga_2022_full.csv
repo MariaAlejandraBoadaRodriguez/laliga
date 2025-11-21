@@ -1,0 +1,27 @@
+fixture_id,date,status,league,round,home_team,away_team,home_goals,away_goals,home_Shots on Goal,home_Shots off Goal,home_Total Shots,home_Blocked Shots,home_Shots insidebox,home_Shots outsidebox,home_Fouls,home_Corner Kicks,home_Offsides,home_Ball Possession,home_Yellow Cards,home_Red Cards,home_Goalkeeper Saves,home_Total passes,home_Passes accurate,home_Passes %,away_Shots on Goal,away_Shots off Goal,away_Total Shots,away_Blocked Shots,away_Shots insidebox,away_Shots outsidebox,away_Fouls,away_Corner Kicks,away_Offsides,away_Ball Possession,away_Yellow Cards,away_Red Cards,away_Goalkeeper Saves,away_Total passes,away_Passes accurate,away_Passes %
+877947,2022-08-12T19:00:00+00:00,FT,La Liga,Regular Season - 1,Osasuna,Sevilla,2,1,5,3,12,4,4,8,16,5,5,34.0,5.0,,2,255,201,79.0,3,4,10,3,5,5,9,2,2,66.0,3.0,,3,518,450,87.0
+877945,2022-08-13T15:00:00+00:00,FT,La Liga,Regular Season - 1,Celta Vigo,Espanyol,2,2,3,3,8,2,3,5,17,3,1,60.0,5.0,,0,539,443,82.0,2,5,10,3,2,8,15,3,0,40.0,2.0,,1,356,272,76.0
+877950,2022-08-13T17:00:00+00:00,FT,La Liga,Regular Season - 1,Valladolid,Villarreal,0,3,6,5,12,1,7,5,6,4,2,52.0,1.0,,1,434,362,83.0,4,4,10,2,6,4,10,5,1,48.0,0.0,,6,414,323,78.0
+877943,2022-08-13T19:00:00+00:00,FT,La Liga,Regular Season - 1,Barcelona,Rayo Vallecano,0,0,6,9,21,6,15,6,16,8,4,68.0,3.0,1.0,2,560,489,87.0,2,2,4,0,3,1,14,0,4,32.0,6.0,0.0,5,274,191,70.0
+877946,2022-08-14T15:30:00+00:00,FT,La Liga,Regular Season - 1,Cadiz,Real Sociedad,0,1,2,3,7,2,4,3,9,3,4,40.0,4.0,,6,291,216,74.0,7,3,15,5,8,7,20,6,0,60.0,2.0,,1,461,373,81.0
+877951,2022-08-14T17:30:00+00:00,FT,La Liga,Regular Season - 1,Valencia,Girona,1,0,2,7,17,8,9,8,18,4,1,46.0,2.0,1.0,1,352,285,81.0,1,2,5,2,2,3,14,4,2,54.0,3.0,0.0,2,397,331,83.0
+877948,2022-08-14T20:00:00+00:00,FT,La Liga,Regular Season - 1,Almeria,Real Madrid,1,2,6,3,10,1,7,3,11,2,3,32.0,3.0,,13,315,257,82.0,15,4,29,10,18,11,4,15,3,68.0,1.0,,5,649,593,91.0
+877942,2022-08-15T15:30:00+00:00,FT,La Liga,Regular Season - 1,Athletic Club,Mallorca,0,0,6,10,23,7,13,10,13,7,1,64.0,0.0,,2,471,388,82.0,2,2,6,2,5,1,12,2,0,36.0,6.0,,6,272,183,67.0
+877966,2022-08-28T20:00:00+00:00,FT,La Liga,Regular Season - 3,Espanyol,Real Madrid,1,3,4,6,15,5,11,4,15,7,0,36.0,,1.0,3,303,235,78.0,6,3,19,10,12,7,12,7,6,64.0,,0.0,3,555,499,90.0
+877968,2022-08-29T18:00:00+00:00,FT,La Liga,Regular Season - 3,Cadiz,Athletic Club,0,4,3,2,9,4,4,5,18,0,0,37.0,2.0,,5,334,257,77.0,8,10,20,2,13,7,4,6,3,63.0,1.0,,3,569,497,87.0
+877969,2022-08-29T20:00:00+00:00,FT,La Liga,Regular Season - 3,Valencia,Atletico Madrid,0,1,2,4,12,6,5,7,15,6,1,71.0,4.0,,6,583,513,88.0,7,5,13,1,9,4,17,2,7,29.0,3.0,,2,245,180,73.0
+877979,2022-09-02T19:00:00+00:00,FT,La Liga,Regular Season - 4,Celta Vigo,Cadiz,3,0,5,3,9,1,4,5,13,2,4,58.0,1.0,,0,530,452,85.0,0,3,7,4,4,3,23,2,1,42.0,2.0,,2,382,299,78.0
+877981,2022-09-03T12:00:00+00:00,FT,La Liga,Regular Season - 4,Mallorca,Girona,1,1,4,5,10,1,8,2,22,6,1,52.0,4.0,,3,410,347,85.0,4,6,10,0,3,7,10,3,2,48.0,2.0,,3,390,328,84.0
+877976,2022-09-03T14:15:00+00:00,FT,La Liga,Regular Season - 4,Real Madrid,Real Betis,2,1,5,12,22,5,13,9,8,9,2,50.0,0.0,,3,495,446,90.0,4,2,8,2,4,4,12,2,3,50.0,1.0,,2,519,456,88.0
+877974,2022-09-03T16:30:00+00:00,FT,La Liga,Regular Season - 4,Real Sociedad,Atletico Madrid,1,1,5,1,12,6,8,4,18,7,4,55.0,5.0,,6,437,343,78.0,7,3,15,5,9,6,13,6,0,45.0,4.0,,4,362,270,75.0
+877975,2022-09-03T19:00:00+00:00,FT,La Liga,Regular Season - 4,Sevilla,Barcelona,0,3,4,2,9,3,7,2,15,4,6,46.0,2.0,,2,367,286,78.0,7,10,18,1,11,7,14,4,2,54.0,4.0,,4,447,372,83.0
+877973,2022-09-04T12:00:00+00:00,FT,La Liga,Regular Season - 4,Osasuna,Rayo Vallecano,2,1,6,4,13,3,8,5,14,4,3,46.0,2.0,,2,329,233,71.0,3,1,5,1,2,3,16,0,2,54.0,2.0,,3,389,302,78.0
+877972,2022-09-04T14:15:00+00:00,FT,La Liga,Regular Season - 4,Athletic Club,Espanyol,0,1,2,11,17,4,9,8,12,4,3,67.0,3.0,,1,558,467,84.0,2,4,9,3,7,2,12,2,2,33.0,2.0,,3,288,192,67.0
+878014,2022-10-10T19:00:00+00:00,FT,La Liga,Regular Season - 8,Elche,Mallorca,1,1,2,3,7,2,4,3,12,5,2,42.0,4.0,1.0,3,319,243,76.0,4,4,11,3,8,3,17,7,5,58.0,5.0,1.0,1,438,372,85.0
+878028,2022-10-14T19:00:00+00:00,FT,La Liga,Regular Season - 9,Rayo Vallecano,Getafe,0,0,3,5,17,9,8,9,13,4,6,65.0,2.0,,3,580,486,84.0,3,1,6,2,3,3,17,1,0,35.0,3.0,,3,323,223,69.0
+878029,2022-10-15T12:00:00+00:00,FT,La Liga,Regular Season - 9,Girona,Cadiz,1,1,6,14,23,3,15,8,16,6,3,65.0,5.0,,1,483,417,86.0,2,6,9,1,6,3,9,2,2,35.0,4.0,,5,278,191,69.0
+878027,2022-10-15T14:15:00+00:00,FT,La Liga,Regular Season - 9,Valencia,Elche,2,2,8,9,20,3,15,5,14,6,5,60.0,3.0,,4,477,406,85.0,6,2,8,0,8,0,19,1,1,40.0,6.0,,5,326,244,75.0
+878024,2022-10-15T16:30:00+00:00,FT,La Liga,Regular Season - 9,Mallorca,Sevilla,0,1,5,3,9,1,6,3,17,1,2,43.0,2.0,,0,370,295,80.0,1,3,4,0,1,3,15,3,2,57.0,3.0,,4,500,417,83.0
+878022,2022-10-15T19:00:00+00:00,FT,La Liga,Regular Season - 9,Athletic Club,Atletico Madrid,0,1,3,6,13,4,7,6,14,6,0,61.0,0.0,,0,566,453,80.0,1,2,3,0,2,1,17,1,1,39.0,6.0,,3,382,271,71.0
+878023,2022-10-16T12:00:00+00:00,FT,La Liga,Regular Season - 9,Celta Vigo,Real Sociedad,1,2,3,5,10,2,3,7,14,1,2,54.0,5.0,1.0,4,455,381,84.0,6,1,8,1,6,2,17,6,1,46.0,7.0,0.0,2,396,312,79.0
+878026,2022-10-16T14:15:00+00:00,FT,La Liga,Regular Season - 9,Real Madrid,Barcelona,3,1,4,2,8,2,6,2,11,2,3,43.0,2.0,,4,414,345,83.0,5,7,18,6,12,6,14,3,4,57.0,2.0,,1,547,488,89.0
